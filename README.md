@@ -15,7 +15,9 @@ The Dashboard gives us a view of a dropdown option to select subject by ID numbe
 
 ![](https://github.com/ysbcode/Plotly-Belly-Button-Biodiversity/blob/main/Images/fullpage.png?raw=true)
 
-The user can then change the ID number of the subject and review the change in the data. We have included the screenshot for ID 960
+The user can then change the ID number of the subject and review the change in the data. 
+We have included the screenshot for ID 960
+
 ![](https://github.com/ysbcode/Plotly-Belly-Button-Biodiversity/blob/main/Images/sample%20ID%20960.png?raw=true)
 
 ## The Charts
